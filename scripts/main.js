@@ -32,6 +32,8 @@ document.querySelector("html").addEventListener("click", function () {
     alert("Ouch! Stop poking me!");
 });
 
+let name = "David";
+
 //example of event handling (lambda syntax)
 /*
 document.querySelector("html").addEventListener("click", () => {
